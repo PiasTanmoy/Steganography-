@@ -1,0 +1,2 @@
+Error: The specified carrier file is too small.
+Maximum file size for the current carrier is:481950 bytes.
